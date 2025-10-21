@@ -23,7 +23,7 @@ Here’s how the app looks:
 
 ![Todo App Screenshot](./public/screenshot.png)
 
-*(Make sure your screenshot image is saved inside the `public` folder and the path matches exactly as shown above.)*
+
 
 ---
 
